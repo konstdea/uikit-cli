@@ -1,0 +1,21 @@
+{
+  "name": "@konstdea/uikit-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "bin": {
+    "uikit-cli": "bin/uikit-cli"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "uikit",
+    "cli",
+    "uikit-cli"
+  ],
+  "author": "konstdea",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
